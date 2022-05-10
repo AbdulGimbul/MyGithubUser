@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserFavoriteGithub</string>
+    <string name="company">Company</string>
+    <string name="detail">Detail</string>
+    <string name="user_name">username</string>
+    <string name="search">Cari</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+</resources>

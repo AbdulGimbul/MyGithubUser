@@ -1,0 +1,30 @@
+<resources>
+    <!-- Other string resources-->
+
+    <string name="user_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="app_name">MyGithubUser</string>
+    <string name="company">Companies</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari user github</string>
+    <string name="tab_following">Following</string>
+    <string name="tab_follower">Followers</string>
+    <string name="content_following">List following</string>
+    <string name="content_follower">List followers</string>
+    <string name="add_favorite">Add To Favorite</string>
+    <string name="remove_favorite">Remove From Fvorite</string>
+    <string name="set_reminder">Set Daily Reminder</string>
+    <string name="date_reminder">Tanggal Reminder</string>
+    <string name="time_reminder">Waktu Reminder</string>
+    <string name="off_alarm">Matikan Alarm</string>
+    <string name="off_reminder">Matikan Reminder</string>
+    <string name="on_reminder">Nyalakan Reminder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
+    <string name="key_reminder">reminder</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
+
+
