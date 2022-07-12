@@ -83,7 +83,7 @@ class DetailsActivity : AppCompatActivity(), View.OnClickListener {
 
         val client = AsyncHttpClient()
         val url = "https://api.github.com/users/$username"
-        client.addHeader("Authorization", "token d951d8dcf731b17fb88f759da4f886ee595060f9")
+        client.addHeader("Authorization", "token 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")
         client.addHeader("User-Agent", "request")
 
         client.get(url, object : AsyncHttpResponseHandler() {
